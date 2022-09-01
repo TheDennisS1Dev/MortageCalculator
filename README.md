@@ -1,5 +1,6 @@
 # MortageCalculator
-Калькулятор ипотеки(работают только аннуитетные платежи)/Mortgage calculator (only annuity payments work)
+Калькулятор ипотеки/Mortgage calculator
 
-**Особенности:**
-  - Поддерживаеться экспорт в .xlxs файл!
+**Особенности/Description:**
+  - *Поддерживаеться экспорт в .xlxs файл!/Supports export to .xlsx file!*
+  - *Поддерживаються только аннуитетные платежи(пока что)!/Only annuity payments are supported (for now)!*
